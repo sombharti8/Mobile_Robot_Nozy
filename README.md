@@ -33,3 +33,4 @@ Once the setup is complete and the sketch is uploaded to the Arduino board, you 
 3.	Tone 6: Turn right
 4.	Tone 8: Move backward
 5.	Tone 5: Stop
+6.	TOne 1: Cancel the call
